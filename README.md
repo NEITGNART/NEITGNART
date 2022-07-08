@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on ELCA project
+- 📫 How to reach me: zzmanhtienzz@gmail.com
+- 😄 Pronouns: John Pham
+- 🌱 I’m currently learning: nothing
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NEITGNART&theme=buefy&show_icons=true)
