@@ -2,7 +2,7 @@
 
 <!--
 **NEITGNART/NEITGNART** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src="https://emoji.gg/assets/emoji/9085-totoro.png" width="64px" height="64px" alt="totoro">
 <a href=https://www.linkedin.com/in/phamdoantien/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn">
 
 Here are some ideas to get you started:
