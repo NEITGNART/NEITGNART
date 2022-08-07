@@ -4,8 +4,6 @@
 <a href=https://www.linkedin.com/in/phamdoantien/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://komarev.com/ghpvc/?username=NEITGNART&color=blue">
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ELCA project
 - 📫 How to reach me: zzmanhtienzz@gmail.com
 - 😄 Pronouns: John Pham
 
